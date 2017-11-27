@@ -19,3 +19,9 @@ n = test()
 n.x = 12
 ```
 `n.x` would be set to 12
+
+The output of `n.test()` would be
+```
+test
+12
+```
