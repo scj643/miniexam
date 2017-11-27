@@ -12,4 +12,10 @@ class test(object):
         print(self.x)
 ```
 
-The class contains data and methods that a program can create and manipulate
+The class contains data and methods that a program can create and manipulate. So if
+
+```python
+n = test()
+n.x = 12
+```
+`n.x` would be set to 12
